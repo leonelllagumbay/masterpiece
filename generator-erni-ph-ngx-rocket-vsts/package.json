@@ -1,0 +1,22 @@
+{
+  "name": "generator-erni-ph-ngx-rocket-vsts",
+  "version": "0.1.0",
+  "description": "A generator to extend ngx-rocket to automatically create vsts projects and build definition",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "request": "^2.88.0",
+    "yeoman-generator": "^1.1.1"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
